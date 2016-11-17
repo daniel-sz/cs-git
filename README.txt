@@ -1,1 +1,7 @@
 Przykładowy tekst
+
+
+
+
+
+dodany tekst
